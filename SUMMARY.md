@@ -8,8 +8,14 @@
 * [Stunlife RP](nos-partenaires/stunlife-rp.md)
 * [Shiftek](nos-partenaires/shiftek.md)
 
-## Nos Serveurs de Jeu
+## L'OPEX <a href="#opex" id="opex"></a>
 
-* [L'OPEX](nos-serveurs-de-jeu/lopex.md)
-* [Le Practice](nos-serveurs-de-jeu/le-practice.md)
-* [Le Lobby](nos-serveurs-de-jeu/le-lobby.md)
+* [C'est quoi ?](opex/presentation.md)
+
+## practice
+
+* [c'est quoi ?](practice/presentation.md)
+
+## Boutique
+
+* [Don](boutique/don.md)
